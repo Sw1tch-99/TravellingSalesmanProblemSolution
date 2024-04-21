@@ -1,0 +1,12 @@
+aaa to ccc distance = 109.96 kilometers
+aaa to eee distance = 164.22 kilometers
+aaa to ddd distance = 176.24 kilometers
+ccc to aaa distance = 109.96 kilometers
+ccc to eee distance = 71.07 kilometers
+ccc to ddd distance = 74.55 kilometers
+eee to aaa distance = 164.22 kilometers
+eee to ccc distance = 71.07 kilometers
+eee to ddd distance = 20.46 kilometers
+ddd to aaa distance = 176.24 kilometers
+ddd to ccc distance = 74.55 kilometers
+ddd to eee distance = 20.46 kilometers
